@@ -35,6 +35,9 @@ export default function Navbar() {
           <Link href="/about" className="text-gray-700 hover:text-orange-600 font-semibold transition duration-300 ease-in-out">
             About
           </Link>
+           <Link href="/finance" className="text-gray-700 hover:text-orange-600 font-semibold transition duration-300 ease-in-out">
+            Finance
+          </Link>
           <Link
             href="/signup"
             className="bg-[#FFA500] text-white px-6 py-2 rounded-lg hover:bg-orange-600 font-semibold transition duration-300 ease-in-out"
