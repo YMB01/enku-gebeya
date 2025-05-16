@@ -24,10 +24,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: *[specify your frontend tech e.g., Angular, Flutter, React, etc.]*
-- **Backend**: *[Node.js, Django, Firebase, etc.]*
-- **Database**: *[MySQL, MongoDB, Firestore, etc.]*
-- **Tools & Services**: *[Figma, Cloudinary, Stripe, etc.]*
+- **Frontend**: *[Next.js]*
+- **Backend**: *[ASP.net, etc.]*
+- **Database**: *[MySQL, etc.]*
+- **Tools & Services**: *[Figma,  etc.]*
 
 ---
 
