@@ -1,4 +1,4 @@
-# Enku Dekor
+# Enku Gebeya
 
 ![Enku Dekor Banner](public/images/enku.png) <!-- Replace with actual image path after upload -->
 
@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-**Enku Dekor** is a beautifully crafted application focused on modern home décor solutions. It offers users an immersive platform to explore, visualize, and design interior spaces that reflect personal style and contemporary trends. Whether you’re redecorating a room or starting from scratch, Enku Dekor makes it simple and inspiring.
+**Enku Gebeya** is a beautifully crafted application focused on modern home décor solutions. It offers users an immersive platform to explore, visualize, and design interior spaces that reflect personal style and contemporary trends. Whether you’re redecorating a room or starting from scratch, Enku Dekor makes it simple and inspiring.
 
 ---
 
