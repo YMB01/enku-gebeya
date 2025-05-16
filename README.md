@@ -1,6 +1,6 @@
 # Enku Dekor
 
-![Enku Dekor Banner](path/to/your/image.png) <!-- Replace with actual image path after upload -->
+![Enku Dekor Banner](public/images/enku.png) <!-- Replace with actual image path after upload -->
 
 ### Created by Team Harmony
 
