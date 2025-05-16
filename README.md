@@ -1,6 +1,6 @@
-# Enku Dekor
+# Enku Gebeya
 
-![Enku Dekor Banner](path/to/your/image.png) <!-- Replace with actual image path after upload -->
+![Enku Dekor Banner](public/images/enku.png) <!-- Replace with actual image path after upload -->
 
 ### Created by Team Harmony
 
@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-**Enku Dekor** is a beautifully crafted application focused on modern home décor solutions. It offers users an immersive platform to explore, visualize, and design interior spaces that reflect personal style and contemporary trends. Whether you’re redecorating a room or starting from scratch, Enku Dekor makes it simple and inspiring.
+**Enku Gebeya** is a beautifully crafted application focused on modern home décor solutions. It offers users an immersive platform to explore, visualize, and design interior spaces that reflect personal style and contemporary trends. Whether you’re redecorating a room or starting from scratch, Enku Dekor makes it simple and inspiring.
 
 ---
 
@@ -24,10 +24,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: *[specify your frontend tech e.g., Angular, Flutter, React, etc.]*
-- **Backend**: *[Node.js, Django, Firebase, etc.]*
-- **Database**: *[MySQL, MongoDB, Firestore, etc.]*
-- **Tools & Services**: *[Figma, Cloudinary, Stripe, etc.]*
+- **Frontend**: *[Next.js]*
+- **Backend**: *[ASP.net, etc.]*
+- **Database**: *[MySQL, etc.]*
+- **Tools & Services**: *[Figma,  etc.]*
 
 ---
 
